@@ -22,7 +22,7 @@ var (
 	size = flag.Float64("size", 12, "font size in points")
 )
 
-const title = "HelloWorld你好"
+const title = "HelloWorld"
 
 func main() {
 	flag.Parse()
